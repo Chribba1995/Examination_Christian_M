@@ -9,3 +9,6 @@ Det finns en python unittest program som kollar att meddelandena som klienterna 
 
 
 Detta är ett test!
+
+Och detta är en extra rad
+
