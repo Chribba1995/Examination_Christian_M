@@ -10,5 +10,5 @@ Det finns en python unittest program som kollar att meddelandena som klienterna 
 
 Detta är ett test!
 
-Och detta är en extra rad
+PS. Detta är en branch som kan mergas med master. Tyvvär så insåg jag inte det tidigare men annars så hade jag sparat mina python program under tiden och haft versioner på dem och sedan mergat dem.
 
